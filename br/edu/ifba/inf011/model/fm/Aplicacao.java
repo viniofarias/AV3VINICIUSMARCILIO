@@ -14,7 +14,6 @@ import br.edu.ifba.inf011.model.chainResponsability.Prioridade10Hoje;
 import br.edu.ifba.inf011.model.chainResponsability.Prioridade5Hoje;
 import br.edu.ifba.inf011.model.chainResponsability.PrioridadeMenorQue5IniciaEntreHojeAnteontem;
 import br.edu.ifba.inf011.model.decorator.OnlineCalendarioDecorator;
-import br.edu.ifba.inf011.model.decoratorNotificacao.WppNotificador;
 import br.edu.ifba.inf011.model.evento.Evento;
 import br.edu.ifba.inf011.model.evento.Lembrete;
 import br.edu.ifba.inf011.model.evento.Partida;
